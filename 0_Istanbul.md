@@ -32,10 +32,10 @@ Both airports are connected to the metro network and you can get away reasonably
 # Getting around in Istanbul
 
 ### Public transport
-Istanbul has a good and affordable public transport networ with metro trains, buses, ferries, trams, and even cable cars. You can use all of of these directly with your credit/debit card. You only scan when you get in; no need to scan when you get off. If you stay for longer than one weekend, it might pay off to get the local public transport card _Istanbulcard_. The Istanbulcard gives you lower fares than your bank card and might be a nice souvenir. Istanbulcard is available at most metro stations and the major bus and ferry terminals.
+Istanbul has a good and affordable public transport system with metro trains, buses, ferries, trams, and even cable cars. You can use all these directly with your credit/debit card. You only scan when you get on; no need to scan when you get off. If you stay in Istanbul for longer than one weekend, it might pay off to buy the local public transport card, _Istanbulcard_. The Istanbulcard gives you lower fares than your bank card and might be a nice souvenir. Istanbulcard is available from vending machines at most metro stations and the major bus and ferry terminals.
 
 ### Taxi
-Taxis are comparably cheap and can help getting from A to B if there is no public transport connection along your route. You can simply wave them down at the road side. Make sure you have a rough idea where you are going, and insist that the taxmeter is switched on (especially in touristic areas).
+Taxis are comparably cheap and can be a good alternative if there is no public transport connection along your route. You can simply wave them down at the road side. Make sure you have a rough idea where you are going, and insist that the taxmeter is switched on (especially in touristic areas).
 
 ### How to find your way?
 Most signs and announcements in public transport are in Turkish _and_ English. Also, Google knows most public transport connections. Or simply ask someone. Turkish people are very friendly and usually happy to help. Most young people speak English or even some German.
