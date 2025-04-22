@@ -1,0 +1,28 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            Istanbul!
+tagline:          'Our Turkish Celebration'
+description:      'An overview about all the important things to know for getting there & getting around.'
+url:              
+baseurl:          /
+
+author:
+  name:           'Kilian'
+  url:            
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+
+plugins: [jekyll-paginate]
