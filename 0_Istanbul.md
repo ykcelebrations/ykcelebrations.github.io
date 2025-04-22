@@ -27,6 +27,8 @@ Both airports are connected to the metro network and you can get away reasonably
 </div>
 
 
+
+<br />
 # Getting around in Istanbul
 
 ### Public transport
@@ -36,9 +38,9 @@ Istanbul has a good and affordable public transport networ with metro trains, bu
 Taxis are comparably cheap and can help getting from A to B if there is no public transport connection along your route. You can simply wave them down at the road side. Make sure you have a rough idea where you are going, and insist that the taxmeter is switched on (especially in touristic areas).
 
 ### How to find your way?
-Most signs and announcements in public transport are in Turkish and English. Also, Google knows most public transport connections. Or simply ask someone. Turkish people are very friendly and usually happy to help. Most young people speak English or even some German.
+Most signs and announcements in public transport are in Turkish _and_ English. Also, Google knows most public transport connections. Or simply ask someone. Turkish people are very friendly and usually happy to help. Most young people speak English or even some German.
 
 
 <div class="message">
-  Note on traffic: The road infrastructure is often overloaded during peak-times. Especially along the Bosphorus and on th towards the southern Bosphorus bridge, traffic jam might extend your travel experience to near eternity. If you can, K advises to use ferry or metro (or metrobus) to get around.
+  Note on traffic: The road infrastructure is often overloaded during peak-times. Especially along the Bosphorus and towards the southern Bosphorus bridge, traffic jam might extend your travel experience to near eternity. If you can, K advises to use ferries, metro (or metrobus) and trams to get around.
 </div>

@@ -11,7 +11,7 @@ title:            Istanbul!
 tagline:          'Our Turkish Celebration'
 description:      'An overview about all the important things to know for getting there & getting around.'
 url:              
-baseurl:          https://ykcelebrations.github.io/
+baseurl:          / #https://ykcelebrations.github.io/
 
 author:
   name:           'Kilian'
