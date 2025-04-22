@@ -1,3 +1,4 @@
+# Below license is included in the 'Hyde' template
 # Released under MIT License
 
 Copyright (c) 2013 Mark Otto.
