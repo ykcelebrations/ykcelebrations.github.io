@@ -8,5 +8,8 @@ Istanbul is very diverse city of more than 16 million people. You will find lots
  <iframe src="https://www.google.com/maps/d/embed?mid=138M5bxxC5tfnbhNUaJcbkChrfkainsc&ehbc=2E312F&noprof=1" width="100%" height="500px"></iframe>
 </div>
 
+Y collated some suggestions for day trips in Istanbul:
+[Day tours](https://docs.google.com/document/u/0/d/1DfnIXhDps_V9jjgmvw7O2O83Yts7Wc06U0I1OSCbIE0/mobilebasic?pli=1)
+
 To be extended during the next weeks.
 
