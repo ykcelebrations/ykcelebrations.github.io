@@ -15,12 +15,13 @@ Y collated some suggestions for day tours in Istanbul:
 ### Day 1: The Historic Peninsula – Ottoman & Byzantine Wonders
 Route: Sultanahmet → Eminönü
 
-1. Sultanahmet Square & Breakfast at Hafız Mustafa 1864:
+1. Sultanahmet Square & Breakfast at Hafız Mustafa 1864:\\
 Start your day with a traditional Turkish breakfast (serpme kahvaltı) at Hafız Mustafa 1864 (Sultanahmet brunch). Try menemen, simit, honey with clotted cream (kaymak), and Turkish tea (by default black tea).
 While walking around the square, see the Hippodrome (with the Obelisk of Theodosius, Serpent Column, and German Fountain).
 Visit Gülhane Park.
 
 2. Hagia Sophia – The Crown Jewel of Byzantine History
+
 Explore the Hagia Sophia—once a church, then a mosque, a museum, and now a mosque again.
 Look for the mosaic of the Virgin Mary and the Deesis mosaic, and don’t miss the Weeping Column (put your thumb in and make a wish).
 
