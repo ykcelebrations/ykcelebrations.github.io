@@ -25,8 +25,8 @@ Important: Don't forget to decline currency conversion. Always choose "local cur
 
 
 ### Bus shuttle to the venue
-The shuttle will leave from Kadiköy Iskele at 16:30.
-[Location](https://maps.app.goo.gl/hhigkYvFwXcahphr8?g_st=aw)
+The shuttle will leave from Kadiköy Iskele at 16:30.\
+[Location](https://maps.app.goo.gl/hhigkYvFwXcahphr8?g_st=aw)\
 We will also share the license plate via the WhatsApp group.
 
 The celebration at the venue will end at 22:30. The shuttle back will leave at 22:45, with a stop at Kadiköy Iskele before continuing to Moda Seaside Park.  
