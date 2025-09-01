@@ -24,7 +24,7 @@ We have not yet figured out which bank currently charges lowest feed for cash wi
 Important: Don't forget to decline currency conversion. Always choose "local currency".
 
 
-# Bus shuttle to the venue
+### Bus shuttle to the venue
 The shuttle will leave from Kadiköy Iskele at 16:30.
 
 [Location](https://maps.app.goo.gl/hhigkYvFwXcahphr8?g_st=aw)
