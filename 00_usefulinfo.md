@@ -16,7 +16,7 @@ This might be a lengthy process since they need to register your passport in the
 
 
 ### Updated public transport info
-The price for a single ride on public transport currently is TRY40 if you pay directly by credit/debit card. You can get better fares with the Istanbulcard, which also goves you discounts on connecting travel. You get the best fares if you register your Istanbulcard to your name/ID: [Register](https://kisisellestirme.istanbulkart.istanbul/)
+The price for a single ride on public transport currently is TRY40 if you pay directly by credit/debit card. You can get better fares with the Istanbulcard, which also gives you discounts on connecting travel. You get the best fares if you register your Istanbulcard to your name/ID: [Register](https://kisisellestirme.istanbulkart.istanbul/)
 
 
 ### Cash
